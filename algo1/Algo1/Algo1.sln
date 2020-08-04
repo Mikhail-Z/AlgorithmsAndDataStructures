@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo1", "Algo1\Algo1.csproj", "{7372E8A4-29D3-4CAD-9E89-B5008A1907F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo1.Tests", "Algo1.Tests\Algo1.Tests.csproj", "{0812A331-4F2A-4E29-B755-874E3F416AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7372E8A4-29D3-4CAD-9E89-B5008A1907F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7372E8A4-29D3-4CAD-9E89-B5008A1907F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7372E8A4-29D3-4CAD-9E89-B5008A1907F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7372E8A4-29D3-4CAD-9E89-B5008A1907F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0812A331-4F2A-4E29-B755-874E3F416AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0812A331-4F2A-4E29-B755-874E3F416AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0812A331-4F2A-4E29-B755-874E3F416AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0812A331-4F2A-4E29-B755-874E3F416AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
